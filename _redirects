@@ -1,2 +1,2 @@
 # Redirects from what the browser requests to what we serve
-/stopped/*	/stopped/index.html	200!
+/stopped/*	https://stopped.netlify.app	200!
