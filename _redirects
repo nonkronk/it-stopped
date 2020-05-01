@@ -1,2 +1,2 @@
 # Redirects from what the browser requests to what we serve
-/stopped/*	https://stopped.netlify.com/:splat	200
+/stopped/*	https://stopped.netlify.com/stopped/:splat	200
