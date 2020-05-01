@@ -1,2 +1,2 @@
 # Redirects from what the browser requests to what we serve
-/stopped	/	301
+/stopped/*	/index.html	200!
