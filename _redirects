@@ -1,3 +1,2 @@
 # Redirects from what the browser requests to what we serve
-/	https://instagram.com/irvantristian
-/stopped	/
+/stopped/*	https://stopped.netlify.com/:splat	200
