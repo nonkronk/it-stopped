@@ -32,7 +32,7 @@ function update() {
     .toString()
     .replace(/\B(?=(\d{3})+(?!\d))/g, ".");
   data.cents = (data.savings - Math.floor(data.savings))
-    .toFixed(2)
+    .toFixed(1)
     .split(".")[1];
   updatePies();
   document.getElementById("rupiah").innerText = data.dollars;
