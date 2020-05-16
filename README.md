@@ -6,4 +6,4 @@
 
 This personal static site might remind me to keep my life alive.
 
-![IT stopped!](https://user-images.githubusercontent.com/29120359/82109931-85785100-9764-11ea-9d8c-0843159194a4.png)
+![IT stopped!](https://user-images.githubusercontent.com/29120359/82110347-d0479800-9767-11ea-8473-c2c88f596181.png)
