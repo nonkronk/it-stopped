@@ -5,6 +5,7 @@ body {
   background: #FFD700;
 }
 
+/*  Main ui */
 #app {
   font-family: sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -13,6 +14,7 @@ body {
   min-height: 100%;
 }
 
+/*  Default title styling */
 h1,
 h2,
 h3,
@@ -22,9 +24,13 @@ h5 {
   line-height: 1;
 }
 
+/*  Default header padding */
 header {
   padding: 2rem 0;
 }
+
+/*  Styling Main title
+    Add flexible black background color */
 header h1 {
   display: table;
   margin: 0px auto 0px auto;
@@ -35,21 +41,28 @@ header h1 {
   padding: 1rem;
   background-color: black;
 }
+
+/*  Styling sub title */
 header p {
   text-align: center;
   font-size: 1.4rem;
   margin: 1.3rem 0 0;
 }
+
+/*  Styling nicotine text */
 header p span {
     padding: 0.2rem;
     font-style: italic;
     color: gold;
     background-color: black;
 }
+
+/*  Force all links in black */
 a {
   color: black;
 }
 
+/*  Title Formatting */
 h1 {
   text-align: center;
   font-size: 2rem;
@@ -67,23 +80,29 @@ p {
   margin: 0.5rem 0;
 }
 
+/*  Increase padding on big screen */
 @media (min-width: 1024px) {
   header.container {
     padding: 6rem 0;
   }
 }
 
+/*  Add some space (useful on tight screen) */
 header.container,
 div.container {
   margin: 0 auto;
   width: 95%;
 }
+
+/*  Increase container width on biggest screen */
 @media (min-width: 1200px) {
   header.container,
   div.container {
     width: 1024px;
   }
 }
+
+/*  Styling on bigger screen */
 @media (min-width: 1024px) {
   header.container,
   div.container {
