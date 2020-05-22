@@ -1,3 +1,5 @@
 # Redirects from what the browser requests to what we serve
-/stopped/	https://stopped.netlify.app	200!
 /started/	https://itstarted.netlify.app	200!
+/started/*	https://itstarted.netlify.app/:spat
+/stopped/	https://stopped.netlify.app	200!
+
