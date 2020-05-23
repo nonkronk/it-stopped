@@ -8,5 +8,5 @@ This personal static site might remind me to keep my life alive.
 
 ![IT stopped!](https://user-images.githubusercontent.com/29120359/82110347-d0479800-9767-11ea-8473-c2c88f596181.png)
 
-Check this out!
+Check this out! \
 https://irvantristian.com/stopped
